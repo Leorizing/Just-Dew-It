@@ -1,5 +1,6 @@
 # Welcome to my ToDo app, Just Dew It
-##Crafting using SwiftUI, my first functional project with swift.
+
+Crafting using SwiftUI, my first functional project with swift.
 
 About Just Dew It:
 Feedback is welcome, looking to make this a free ToDo app some day to help people who struggle with managing daily tasks and dont want to feel bad about themselves if they cant meet todays goals. 
